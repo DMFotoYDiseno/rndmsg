@@ -1,0 +1,27 @@
+{
+  "name": "rndmsg",
+  "version": "1.0.0",
+  "description": "Random Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMFotoYDiseno/rndmsg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMFotoYDiseno/rndmsg/issues"
+  },
+  "homepage": "https://github.com/DMFotoYDiseno/rndmsg#readme",
+  "bin": {
+    "rndmsg": "../bin/global.js"
+  },
+  "preferedGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
